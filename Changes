@@ -1,0 +1,6 @@
+Revision history for Perl extension Bundle::AI.
+
+0.01  Sun Jun  3 12:30:16 2007
+	- original version; created by h2xs 1.23 with options
+		-AXcfn Bundle::AI
+
