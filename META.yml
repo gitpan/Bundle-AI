@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Bundle-AI
-version:             0.01
+version:             0.02
 abstract:            ~
 license:             ~
 generated_by:        ExtUtils::MakeMaker version 6.32
@@ -9,5 +9,3 @@ requires:
 meta-spec:
     url:     http://module-build.sourceforge.net/META-spec-v1.2.html
     version: 1.2
-author:
-    - Kevin W. Henwood <Khen1950fx@aol.com>

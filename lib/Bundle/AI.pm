@@ -1,6 +1,6 @@
 package Bundle::AI;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 1;
@@ -55,19 +55,15 @@ Term::ANSIScreen
 
 Heap
 
-Heap::Elem
-
-Heap::Fibonacci
-
 Cache
-
-Config
 
 Storable
 
 Date::Parse
 
-Io::String
+IO
+
+IO::String
 
 File::Spec
 
@@ -75,19 +71,9 @@ File::NFSLock
 
 Digest::SHA1
 
-IO::Handle
-
-IO::File
-
-Fcntl
-
 IO::File::Lockable
 
 DB_File
-
-IO
-
-IO::Seekable
 
 IO::String
 
@@ -169,8 +155,6 @@ Filter::Util::Call
 
 Text::Balanced
 
-Count
-
 Digest::MD5
 
 Parse::RecDescent
@@ -182,8 +166,6 @@ Class::HPLOO
 Inline
 
 Data::Dumper
-
-Term::ReadLine
 
 Term::ReadKey
 
@@ -267,6 +249,10 @@ AI::NaiveBayes1
 
 AI::NeuralNet::SOM
 
+Games::Worms
+
+AI::subclust
+
 =head1 AUTHOR
 
 Kevin W. Henwood, <Khen1950fx@aol.com>
@@ -281,3 +267,4 @@ at your option, any later version of Perl 5 you may have available.
 
 
 =cut
+
